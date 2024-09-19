@@ -1,0 +1,1 @@
+How do I make it so that my git commands, like `git add .` and `git commit` are tracked to different github accounts? By default, it's my private account at the moment, but I would prefer to use my public account by default now.
